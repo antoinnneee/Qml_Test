@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/index">
+        <file>picture/map_0.png</file>
+        <file>picture/info.png</file>
+        <file>picture/info_0.png</file>
+        <file>picture/info_1.png</file>
+        <file>picture/info_2.png</file>
+        <file>picture/info_3.png</file>
+        <file>picture/bg_test.png</file>
+        <file>picture/pause_button.svg</file>
+        <file>picture/stop_button.png</file>
+        <file>picture/play.png</file>
+    </qresource>
+</RCC>
