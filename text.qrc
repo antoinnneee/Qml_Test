@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/texte">
+        <file alias="T1">tree/text/titre/1.txt</file>
+        <file alias="T2">tree/text/titre/2.txt</file>
+        <file alias="T3">tree/text/titre/3.txt</file>
+        <file alias="T4">tree/text/titre/4.txt</file>
+        <file alias="T5">tree/text/titre/5.txt</file>
+        <file alias="T6">tree/text/titre/6.txt</file>
+        <file alias="TA0">tree/text/textarea/0.txt</file>
+        <file alias="TA1">tree/text/textarea/1.txt</file>
+        <file alias="TA2">tree/text/textarea/2.txt</file>
+        <file alias="TA3">tree/text/textarea/3.txt</file>
+        <file alias="TA4">tree/text/textarea/4.txt</file>
+        <file alias="TA5">tree/text/textarea/5.txt</file>
+        <file alias="TA6">tree/text/textarea/6.txt</file>
+        <file alias="T0">tree/text/titre/0.txt</file>
+    </qresource>
+</RCC>

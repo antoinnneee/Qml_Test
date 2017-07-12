@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icone">
+        <file alias="PLAY0">tree/ico/play/play.png</file>
+        <file alias="PAUSE0">tree/ico/pause/pause.png</file>
+        <file alias="STOP0">tree/ico/stop/stop_button.png</file>
+        <file alias="LARROW0">tree/ico/left_arrow/left_arrow.png</file>
+        <file alias="BACK0">tree/ico/back/backbut.png</file>
+        <file alias="BACK1">tree/ico/back/back.png</file>
+        <file alias="RARROW0">tree/ico/right_arrow/right_arrow.png</file>
+        <file alias="LARROW1">tree/ico/left_arrow/left_arrow1.png</file>
+        <file alias="RARROW1">tree/ico/right_arrow/right_arrow1.png</file>
+        <file alias="AN0">tree/ico/other/anim.gif</file>
+    </qresource>
+</RCC>

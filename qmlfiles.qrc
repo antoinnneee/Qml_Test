@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/QML">
+        <file>PovQuick.qml</file>
+        <file>PovQuickForm.ui.qml</file>
+        <file>Quickchoose.qml</file>
+        <file>QuickchooseForm.ui.qml</file>
+        <file>flickcore.qml</file>
+    </qresource>
+</RCC>

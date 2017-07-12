@@ -1,0 +1,5 @@
+<RCC>
+        <qresource prefix="/sound">
+		<file alias="SOUND6">tree/sound/Stup_VITE.mp3</file>
+        </qresource>
+</RCC>

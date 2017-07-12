@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="/sound">
+		<file alias="SOUND0">tree/sound/CaPa_Dramophone.mp3</file>
+		<file alias="SOUND1">tree/sound/CaPa_LoneDigger.mp3</file>
+	</qresource>
+</RCC>

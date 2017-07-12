@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="/sound">
+		<file alias="SOUND4">tree/sound/MV_SR.mp3</file>
+		<file alias="SOUND5">tree/sound/Stup_LECROU.mp3</file>
+	</qresource>
+</RCC>
